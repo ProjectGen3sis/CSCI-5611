@@ -1,1 +1,1 @@
-# CSCI-5611
+# CSCI-5611 - Animation and Planning in games
