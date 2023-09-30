@@ -6,12 +6,18 @@ Work on this more so it can easily look better than this!
 ## Youtube Link
 https://youtu.be/jKEE-QHeDcA 
 ### Tools Used
-https://processing.org/reference/image_.html
+https://processing.org/reference/image_.html 
+
 https://mrfeinberg.com/peasycam/#download
+
 Processing Example: Textured Sprites (Stephen J. Guy)
+
 FallingBalls.zip (Stephen J. Guy)
+
 Billards (Stephen J. Guy)
+
 https://www.youtube.com/watch?v=I6fG1wneXWo
+
 https://www.youtube.com/watch?v=cFT3-SG6fSg
 
 #### Implementations
