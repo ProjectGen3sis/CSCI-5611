@@ -1,6 +1,7 @@
 
 ![CSCI 5611 Pinball](https://github.com/ProjectGen3sis/CSCI-5611/assets/86497061/ecf213ed-15bf-4e86-8160-721e34110c19)
 
+Work on this more so it can easily look better than this!
 
 Youtube Link
 https://youtu.be/jKEE-QHeDcA 
