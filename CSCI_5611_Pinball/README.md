@@ -49,8 +49,7 @@ The score display is on the top showcasing the collision detection whenever the 
 3D	Rendering &	Camera
 I used peasy as an resource to try and do a 3D camera, but lets just it did not turn out that great.
 # Difficulties
-The difficulties were definitely matching up the image on spheres as I just gave up because it took too much time. Another really aspect was getting the 3D camera down as it did not look
-good at all. I had to comment out some of my collision library as  it would just make duplicate errors and I just decided to just keep it in there because why not.    
+The difficulties were definitely matching up the image on spheres as I just gave up because it took too much time. Another really aspect was getting the 3D camera down as it did not look good at all. The box to line was extremely difficult to implement as it took a long time. I had to comment out some of my collision library as it would just make duplicate errors and I just decided to just keep it in there because why not.    
 
 
 
