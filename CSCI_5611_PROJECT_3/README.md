@@ -1,6 +1,15 @@
 # Seng Thao & Royal Lee
 
 # Youtube Link
+Project 3
+https://www.youtube.com/watch?v=XTOLPLSZZ0c&ab_channel=RoyalLee
+
+Project 3 JOINTS
+https://www.youtube.com/watch?v=3GhK01Qj_8s&ab_channel=RoyalLee
+
+Project 3 NO JOINTS
+https://www.youtube.com/watch?v=_id2sAoWq5s&ab_channel=RoyalLee
+
 
 # Tools Used
 
