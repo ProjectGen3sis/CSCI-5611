@@ -29,4 +29,4 @@ User	Interaction (up	to	10	points).
 Moving	IK	(at	least	2D) (up	to	10	points)
 
 # Difficulties
-Me and Royal had difficulties with collision part because it wuuld always get stuck when colliding into a object. So, we decided to chalk it up as we did were not able to find a solution for it. 
+Me and Royal had difficulties with collision part because it wuuld always get stuck when colliding into a object. So, we decided to chalk it up as we did were not able to find a solution for it and time was running out. I would that it took some time to find out the right constraints as some work well than other values. 
