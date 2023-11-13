@@ -21,17 +21,17 @@ IK_Exercise in class activity
 Collision Library Detection from Project 1
 
 # Implementations
-**Single-arm	IK* (at	least	2D) (up	to 20	points)**
+**Single-arm	IK (at	least	2D) (up	to 20	points)**
 We created a left arm and a right arm that each have access to 5 joints in total. Both arms can be shown reaching for the object associated with the mouse, as well as the three surrounding objects. The root of the skeleton which is at the bottom stays stationary, unless moved by the user.
 
-**Multi-arm	IK	(at	least	2D) (up	to 20	points).	**
+**Multi-arm	IK	(at	least	2D) (up	to 20	points)**
 Both the left and right arms have their own end effectors that reach for objects individually, and can be toggled on and off with the A and D key. There is a stationary root between the two arms located at the bottom of the spine, and two shared joints between the two arms that move according to each other. 
 
 The left arm can be seen reaching for an object at the start of the video, and when it is out of reach
 The right arm can be seen reaching for an object at around 0:24, and when it is out of reach
 Both arms can be seen simultaneously reaching for an object at 0:55, and when it is out of reach for both
 
-**Joint	limits* (up	to 20	points).**		
+**Joint	limits (up	to 20	points)**		
 The left arm with joints can be seen reaching for an object in the second video. There are joints in both the spine and the left arm, and we can see there is not much chaotic, unrealistic movement within the spine and the arm.
 
 However, in the third video with no joints, we can see that the arm and spine move in an unrealistic fashion, bending along itself, and moving chaotically at certain angles.
