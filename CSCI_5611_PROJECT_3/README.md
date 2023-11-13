@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=_id2sAoWq5s&ab_channel=RoyalLee
 
 # Tools Used
 IK_Exercise in class activity
+
 Collision Library Detection from Project 1
 
 # Implementations
