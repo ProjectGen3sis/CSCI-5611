@@ -16,7 +16,9 @@ https://www.youtube.com/watch?v=_id2sAoWq5s&ab_channel=RoyalLee
 ![image](https://github.com/ProjectGen3sis/CSCI-5611/assets/123200654/25517815-9cd5-481f-8f67-77cd4c9319d6)
 
 # Tools Used
-IK_Exercise in class activity
+IK_Exercise In-Class Activity
+
+Stephen Guy's Vector Library
 
 Collision Library Detection from Project 1
 
