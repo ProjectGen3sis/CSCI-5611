@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=3GhK01Qj_8s&ab_channel=RoyalLee
 Project 3 NO JOINTS
 https://www.youtube.com/watch?v=_id2sAoWq5s&ab_channel=RoyalLee
 
+# Images of Project 3
+![image](https://github.com/ProjectGen3sis/CSCI-5611/assets/123200654/86ed9d87-6e0a-4f3d-ae0d-99ee386d356e)
+![image](https://github.com/ProjectGen3sis/CSCI-5611/assets/123200654/69f224c1-7630-4321-865d-b180540a06ed)
+![image](https://github.com/ProjectGen3sis/CSCI-5611/assets/123200654/25517815-9cd5-481f-8f67-77cd4c9319d6)
 
 # Tools Used
 IK_Exercise in class activity
