@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=_id2sAoWq5s&ab_channel=RoyalLee
 
 
 # Tools Used
+IK_Exercise in class activity
+Collision Library Detection from Project 1
 
 # Implementations
 
@@ -26,4 +28,4 @@ User	Interaction (up	to	10	points).
 Moving	IK	(at	least	2D) (up	to	10	points)
 
 # Difficulties
-Me and Royal had difficulties with collision part because it wuuld always get stuck when colliding into a object. So, we decided to chalk it up as we did were not able to find a solution for it.
+Me and Royal had difficulties with collision part because it wuuld always get stuck when colliding into a object. So, we decided to chalk it up as we did were not able to find a solution for it. 
