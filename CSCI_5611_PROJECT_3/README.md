@@ -6,14 +6,14 @@
 
 # Implementations
 
-Single-arm	IK* (at	least	2D)
+Single-arm	IK* (at	least	2D) (up	to	20	points).	
 
-Multi-arm	IK	(at	least	2D)
+Multi-arm	IK	(at	least	2D) (up	to	20	points).	
 
-Joint	limits*
+Joint	limits* (up	to	20	points).	
 
-IK	Obstacles	
+IK	Obstacles	(up	to	20	points).	
 
-User	Interaction
+User	Interaction (up	to	10	points).
 
 # Difficulties
